@@ -7,6 +7,7 @@ import pandas as pd
 
 number_of_retrieved_images=20
 img_path='./coco_images/validation'
+#It is required that the query image names are added in the query_img_names list
 query_img_names=['000000466835.jpg',
                  '000000114871.jpg',
                  '000000052891.jpg',
@@ -14,7 +15,7 @@ query_img_names=['000000466835.jpg',
                  '000000171611.jpg',
                  '000000190140.jpg'
                  ]
-hidden=[64]
+hidden=[64] #64 is the hash length. It may change accordingly such as 16, 32 and 48
 
 ################################################
 hash_size=hidden[0]
