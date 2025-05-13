@@ -1,7 +1,7 @@
 # ODH-IR
 Object Detection-based Hashing Image Retrieval
 
-Cite:Erkan U., Yilmaz A., Toktas A., Lai Q., Gao S., Object detection-based autoencoder hashing image retrieval, Signal Processing: Image Communication (Under Review, Stage Revision 1), will be updated after publishing
+Cite: Erkan U., Yilmaz A., Toktas A., Lai Q., Gao S., Object detection-based autoencoder hashing image retrieval, Signal Processing: Image Communication (Under Review, Stage Revision 1), will be updated after publishing
 
 Prerequisites Before Running the Code:
 
